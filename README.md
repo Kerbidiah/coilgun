@@ -1,8 +1,8 @@
-# coilgun
+# Coilgun
 
 A coil gun is like a railgun, but different. In my opinion it is better as there is no sliding electrical contacts (which means lots of friciton).
 
-# the code
+# The Code
 
 Click on the files up above to open them
 * **README.md** is this text you are reading right now.
